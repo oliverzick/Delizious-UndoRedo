@@ -1,0 +1,10 @@
+<Project>
+
+  <PropertyGroup>
+    <RootNamespace>Delizious</RootNamespace>
+    <Authors>Oliver Zick</Authors>
+    <AssemblyVersion>0.1.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>
